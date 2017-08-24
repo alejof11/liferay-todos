@@ -283,6 +283,8 @@ select.reminder-duration:disabled {
     content: "\f054";
     font-family: 'fontawesome-alloy';
     font-size: 17px;
+    position: absolute;
+    right: -1px; 
 }
 
 /************************ Toggling tasks categories **************************/
